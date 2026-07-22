@@ -27,6 +27,19 @@ A merged and cleaned dataset containing **552,101 unique medicine names** compil
 
 ---
 
+## 🛠 Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Programming Language | Python 3 |
+| Data Processing | Pandas, NumPy |
+| Development Environment | Jupyter Notebook |
+| Data Format | CSV |
+| Version Control | Git |
+| Repository Hosting | GitHub |
+
+---
+
 ## 🛠 Data Processing Pipeline
 
 ```
